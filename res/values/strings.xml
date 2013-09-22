@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">IlliniEats</string>
+<string name="hello_world">Hello world!</string>
+<string name="menu_settings">Settings</string>
+<string name="first_message">
+Welcome to IlliniEats, your one stop shop to finding out what\'s for dinner, and where to get it. Click the button below to look at menus at all the dining halls, see where your favorite meals are being served, and view your meal balance. Happy eating!
+</string>
+<string name="menu">Menus</string>
+<string name="favorites">Favorites</string>
+<string name="balance">Balance</string>
+<string name="title_activity_display_menus">Menus</string>
+<string name="hall_root">Select a Dining Hall</string>
+<string-array name="hall_array">
+<item>Busey-Evans</item>
+<item>FAR</item>
+<item>Ikenberry</item>
+<item>ISR</item>
+<item>LAR</item>
+<item>PAR</item>
+</string-array>
+<string name="balance_checker">Check Your Balance</string>
+<string name="username">Username</string>
+<string name="password">Password</string>
+<string name="done">Done</string>
+<string name="title_activity_input_account">Check Balance</string>
+<string name="title_activity_check_balance">Check Balance</string>
+<string name="title_activity_display_favorites">Favorites</string>
+<string name="dining_hall_info">Dining Hall Info</string>
+<string name="title_activity_dining_hall_info">Dining Halls</string>
+<string name="Busey_Evans">Busey Evans</string>
+<string name="FAR">FAR</string>
+<string name="Ikenberry">Ikenberry</string>
+<string name="LAR">LAR</string>
+<string name="PAR">PAR</string>
+<string name="ISR">ISR</string>
+<string name="back">Back</string>
+<string name="title_activity_dining_hall_menu">Dining Hall Info</string>
+<string name="date_text_hint">Enter date here</string>
+</resources>

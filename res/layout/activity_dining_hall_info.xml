@@ -1,0 +1,91 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <Button
+        android:id="@+id/PAR"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:onClick="goPAR"
+        android:text="@string/PAR"
+        android:textColor="#ffffff"
+        android:textSize="22sp"
+        android:background="@drawable/button"
+        android:layout_marginTop="15dp"
+        android:width="200dp"
+         />
+
+    <Button
+        android:id="@+id/Busey_Evans"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/PAR"
+        android:layout_centerHorizontal="true"
+        android:onClick="goBuseyEvans"
+        android:text="@string/Busey_Evans"
+        android:textColor="#ffffff"
+        android:textSize="22sp"
+        android:background="@drawable/button"
+        android:layout_marginTop="15dp"
+        android:width="200dp" />
+
+    <Button
+        android:id="@+id/FAR"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/Busey_Evans"
+        android:layout_centerHorizontal="true"
+        android:onClick="goFAR"
+        android:text="@string/FAR"
+        android:textColor="#ffffff"
+        android:textSize="22sp"
+        android:background="@drawable/button"
+        android:layout_marginTop="15dp"
+        android:width="200dp" />
+
+    <Button
+        android:id="@+id/Ikenberry"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/FAR"
+        android:layout_centerHorizontal="true"
+        android:onClick="goIkenberry"
+        android:text="@string/Ikenberry"
+        android:textColor="#ffffff"
+        android:textSize="22sp"
+        android:background="@drawable/button"
+        android:layout_marginTop="15dp"
+        android:width="200dp" />
+
+    <Button
+        android:id="@+id/ISR"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/Ikenberry"
+        android:layout_centerHorizontal="true"
+        android:onClick="goISR"
+        android:text="@string/ISR"
+        android:textColor="#ffffff"
+        android:textSize="22sp"
+        android:background="@drawable/button"
+        android:layout_marginTop="15dp"
+        android:width="200dp" />
+
+    <Button
+        android:id="@+id/LAR"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/ISR"
+        android:layout_centerHorizontal="true"
+        android:onClick="goLAR"
+        android:text="@string/LAR"
+        android:textColor="#ffffff"
+        android:textSize="22sp"
+        android:background="@drawable/button"
+        android:layout_marginTop="15dp"
+        android:width="200dp" />
+
+</RelativeLayout>
