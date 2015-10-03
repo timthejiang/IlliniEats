@@ -13,5 +13,5 @@ Developed in Fall 2012
 
 ###Contributors
 - Timothy Jiang
-- (Bhargava Manja)[https://github.com/Bhargee]
+- [Bhargava Manja](https://github.com/Bhargee)
 - Neeraj Asthana
